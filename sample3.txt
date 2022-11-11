@@ -1,0 +1,5 @@
+﻿README.TXT
+This is readme file
+To start the project on your local machine
+npm install 
+npm star
